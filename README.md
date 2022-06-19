@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Python/Micro-Python so that I can get back into Embedded Systems development.  I am a retired Electronics Engineer who can remember
 - the Commodore PET (Wiki it...the Science Museum in Munich still have one on display).
 - 💞️ I’m looking to collaborate on Low Cost fixed-wing Drone Development for humanitarian purposes.
-- 📫 How to reach me...Watch this space please.
+- 📫 How to reach me...email to hgw.wilson@googlemail.com
 
 <!---
 flyboyCW12/flyboyCW12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
