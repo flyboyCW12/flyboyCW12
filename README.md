@@ -2,7 +2,7 @@ Hi, I’m @flyboyCW12
 
 I’m interested in Aircraft design and development (fixed wing drones).
 
-I could describe myself as a self taught aeronautical engineerbut that would be a bit over the top.
+I could describe myself as a self taught aeronautical engineer but that would be a bit over the top.
 I am an open tx enthusiast, leveraging INAV installed in MatekSys flight controllers.  Mostly I don't crash! 
 
 I've been building and flying models for 40 years.
