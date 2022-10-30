@@ -9,12 +9,14 @@ I've been building and flying models for 40 years.
 
 I design using TurboCAD for 2D work and FreeCAD for 3D work mostly for printed parts which enhance the designs.
 
-I’m currently learning Python/Micro-Python so that I can get back into Embedded Systems development.
+I’m currently learning Python/Micro-Python so that I can get back into Embedded Systems development and making decent progress with that.
 
-I am a retired Electronics Engineer who can remember the Commodore PET (Wiki it!...the Science Museum in Munich still have one on display).
+I am a retired Electronics Engineer who can remember the Commodore PET (Wiki it!...the Science Museum in Munich still had one on display last time I was there).
 
-I’m looking to collaborate on Low Cost fixed-wing Drone Development for humanitarian purposes.
-You can reach by email at hgw.wilson@googlemail.com
+Harry Wilson
+
+30th October 2022
+
 
 <!---
 flyboyCW12/flyboyCW12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
